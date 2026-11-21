@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "game": "Brawl Stars (independent portfolio case study)",
+    "mechanic": "Regular Starr Drop rarity",
+    "n_openings": 10,
+    "source": "https://sc-brawlstars.zendesk.com/hc/en-us/articles/49526642756507-Starr-Drop-Chances",
+    "source_checked": "2026-11-21",
+    "warning": "A rarity odds are published by Supercell; B odds and ALL reward values are invented. No player-feeling data."
+  },
+  "teaching_value_by_rarity": {
+    "Rare": 50,
+    "Super Rare": 100,
+    "Epic": 150,
+    "Mythic": 250,
+    "Legendary": 1000
+  },
+  "A_official_rarity_mix_with_toy_values": {
+    "probabilities_pct": {
+      "Rare": 50.0,
+      "Super Rare": 28.0,
+      "Epic": 15.0,
+      "Mythic": 5.0,
+      "Legendary": 2.0
+    },
+    "expected_units_per_drop": 108.0,
+    "expected_units_per_ten": 1080.0,
+    "sd_units_per_drop": 137.4263,
+    "chance_legendary_in_ten_pct": 18.2927,
+    "chance_first_five_all_rare_pct": 3.125,
+    "median_units_in_ten": 950,
+    "chance_ten_below_1080_pct": 70.036
+  },
+  "B_hypothetical_jackpot_mix_with_toy_values": {
+    "probabilities_pct": {
+      "Rare": 75.0,
+      "Super Rare": 8.0,
+      "Epic": 10.0,
+      "Mythic": 3.0,
+      "Legendary": 4.0
+    },
+    "expected_units_per_drop": 108.0,
+    "expected_units_per_ten": 1080.0,
+    "sd_units_per_drop": 187.446,
+    "chance_legendary_in_ten_pct": 33.5167,
+    "chance_first_five_all_rare_pct": 23.7305,
+    "median_units_in_ten": 800,
+    "chance_ten_below_1080_pct": 65.3913
+  }
+}
